@@ -7,8 +7,8 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
-  subtitle: 'Demo Site',
+  title: 'Ririn Vieux',
+  subtitle: 'Ririn Vieux Carrd',
   lang: 'en',
   themeHue: 250,
   banner: {
@@ -38,7 +38,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'Twitter',
       icon: 'fa6-brands:twitter',
-      url: 'https://twitter.com',
+      url: 'https://twitter.com/lynaaofficial',
     },
     {
       name: 'Steam',
@@ -48,7 +48,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/blackpink',
     },
   ],
 }
